@@ -4,3 +4,5 @@ this is my first repository
 <p>
 author - joshitha
 </p>
+<body bg color="purple>
+  </body>
