@@ -1,5 +1,5 @@
 # my-project
-<body bg color="purple">
+<body bgcolor="purple">
   
 this is my first repository
 <hr>
